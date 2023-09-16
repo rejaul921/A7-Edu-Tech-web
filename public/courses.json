@@ -1,0 +1,74 @@
+[
+  {
+    "id": "course1",
+    "img": "https://i.ibb.co/jkZXTSD/Rectangle-2-2.png",
+    "title": "Introduction to C Programming",
+    "description": "Dive into the world of programming with C, a foundational language known for its efficiency and versatility. Learn the basics, from variables and loops to functions and memory management, as you take your first steps towards becoming a skilled developer.",
+    "price": 19.99,
+    "reading_time": 2
+  },
+  {
+    "id": "course2",
+    "img": "https://i.ibb.co/bdxYQpD/Rectangle-2-3.png",
+    "title": "Introduction to Algorithms",
+    "description": "Explore the fascinating realm of algorithms, the building blocks of modern computing. This course delves into algorithm design, analysis, and optimization techniques, providing you with a solid foundation for solving complex computational problems.",
+    "price": 29.99,
+    "reading_time": 3
+  },
+  {
+    "id": "course3",
+    "img": "https://i.ibb.co/RzyVMq2/Rectangle-2-4.png",
+    "title": "Introduction to C++ for DSA",
+    "description": "Master the power of C++ as you venture into the realm of data structures and algorithms. This course focuses on C++ features that enhance your ability to design and implement efficient data structures, making you a proficient problem solver.",
+    "price": 24.99,
+    "reading_time": 2.5
+  },
+  {
+    "id": "course4",
+    "img": "https://i.ibb.co/yQFvXdH/Rectangle-3.png",
+    "title": "Basic Data Structures",
+    "description": "Build a strong understanding of essential data structures such as arrays, linked lists, and trees. This course equips you with the knowledge to efficiently store, retrieve, and manipulate data, a fundamental skill for any programmer.",
+    "price": 14.99,
+    "reading_time": 1.5
+  },
+  {
+    "id": "course5",
+    "img": "https://i.ibb.co/zWdCv4z/Rectangle-2.png",
+    "title": "Introduction to OOP Python",
+    "description": "Unleash the potential of Python's object-oriented capabilities. Learn how to create classes, objects, and inheritance hierarchies, enabling you to design scalable and maintainable software applications.",
+    "price": 39.99,
+    "reading_time": 4
+  },
+  {
+    "id": "course6",
+    "img": "https://i.ibb.co/CMXDvRC/Rectangle-2-5.png",
+    "title": "Software Engineering",
+    "description": "Discover the principles and practices that underpin professional software development. This course covers the entire software development lifecycle, from requirements gathering to testing and maintenance, ensuring you can build robust and reliable software.",
+    "price": 49.99,
+    "reading_time": 5
+  },
+  {
+    "id": "course7",
+    "img": "https://i.ibb.co/Sxy8Khh/Rectangle-3-1.png",
+    "title": "AWS Cloud Computing",
+    "description": "Embrace the power of cloud computing with Amazon Web Services (AWS). Explore cloud services, scalability, and infrastructure as code, enabling you to deploy, manage, and scale applications in the cloud.",
+    "price": 9.99,
+    "reading_time": 1
+  },
+  {
+    "id": "course8",
+    "img": "https://i.ibb.co/3YRxKkC/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "description": "Gain expertise in database management with MySQL. Learn to design, query, and optimize relational databases, a critical skill for storing and retrieving data efficiently.",
+    "price": 34.99,
+    "reading_time": 3.5
+  },
+  {
+    "id": "course9",
+    "img": "https://i.ibb.co/xmxRFxS/Rectangle-2-6.png",
+    "title": "Problem-Solving Part",
+    "description": "Hone your problem-solving abilities in a practical setting. This course challenges you with real-world scenarios, teaching you to analyze issues, devise creative solutions, and implement them effectively.",
+    "price": 19.99,
+    "reading_time": 2
+  }
+]

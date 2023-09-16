@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Cart from '../cart/cart'
+import { toast } from 'react-toastify';
+
 
 function Home() {
     const [courses, setCourses]=useState([]);
@@ -18,7 +20,7 @@ const selectCourse=(course)=>{
     let hours=course.reading_time
     let money=course.price
     if(isSelected){
-        alert("You have already added the Course")
+        toast.warning("You have already added the Course")
     }
     else{
         selectedCourses.forEach((item)=>{
@@ -26,7 +28,7 @@ const selectCourse=(course)=>{
             money=money+item.price
         });
         if(hours>20){
-            alert("Sorry! You've run out of Credit hours");
+            toast.error("Sorry! You've run out of Credit hours");
         }
         else{
             setTotalMoney(money)
